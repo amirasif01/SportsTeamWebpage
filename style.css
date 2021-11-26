@@ -38,7 +38,7 @@ h1 {
     border-radius: 70px;
 }
 .container{
-    border:2px dashed black;
+    border:2px solid black;
 }
 table {
     font-family: arial, sans-serif;
